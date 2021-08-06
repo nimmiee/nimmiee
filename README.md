@@ -1,5 +1,4 @@
-
-
+                                             ![](https://nebigdatahub.org/wp-content/uploads/2019/11/7T9364v.gif)
 ### Hola, I'm Nimra Khan👋
 
 - 🔭 I’m currently working on Data Science.
