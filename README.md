@@ -8,5 +8,5 @@
 - 💬 Ask me about Data Science and tech related stuff.
 - 📫 How to reach me: linkedln - https://www.linkedin.com/feed/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When i was little kid i always wanted to become Doctor but I'm Engineer now.
+- ⚡ Fun fact: When I was little kid, I always wanted to become Doctor but I'm Engineer now.
 
