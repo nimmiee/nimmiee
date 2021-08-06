@@ -10,5 +10,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I was little kid, I always wanted to become Doctor but I'm Engineer now.
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=nimmiee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1919)
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=nimmiee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=19191p)
 
