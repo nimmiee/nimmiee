@@ -19,8 +19,8 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-[![Nimmiee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nimmiee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nimmiee/github-readme-stats#gh-dark-mode-only)
-[![Nimmiee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nimmiee&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nimmiee/github-readme-stats#gh-light-mode-only)
-![enter image description here](https://github-readme-stats.vercel.app/api?username=nimmiee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191910)
+//
+//[![Nimmiee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nimmiee&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/nimmiee/github-readme-stats#gh-dark-mode-only)
+//[![Nimmiee's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nimmiee&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/nimmiee/github-readme-stats#gh-light-mode-only)
+//![enter image description here](https://github-readme-stats.vercel.app/api?username=nimmiee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191910)
 
