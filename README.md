@@ -20,4 +20,5 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+![Nimra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimmiee&show_icons=true&theme=gruvbox)
 
