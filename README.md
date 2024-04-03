@@ -10,7 +10,7 @@
 - 💬 Feel free to ask me about Data Science and tech-related topics..
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/nimra-khan-233b4a1a6/), [Kaggle](https://www.kaggle.com/nimrakhan7)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:When I was a little kid, I always wanted to become a doctor, but I'm an engineer now.
+- ⚡ Fun fact: When I was a little kid, I always wanted to become a doctor, but I'm an engineer now.
 
 ### Languages
 
